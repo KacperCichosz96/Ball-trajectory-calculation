@@ -7,13 +7,13 @@
 #include "defs.h"
 
 //This application allows to calculate a trajectory of table tennis ball in side view of a table (to get complete information about ball position,
-//a front view photos are needed too). The calculations are performed based on 3 photos of the ball location (subsequent in time) after opponent shot
-//and before the first bounce on the table. For a proper working of the app, used photos should meet some condition:
-//- the background should be plain, without any people or staff
+//a front view photos are needed too). The calculations are performed based on 3 photos of the ball locations (subsequent in time) after opponent shot
+//and before the first bounce on the table. For a proper working of the app, used photos should meet some conditions:
+//- the background should be plain, without any people or stuffs
 //- good lighting conditions should be ensured
 //- at the bottom of the photo a ping pong table (in full length) should be seen
 //
-//The app was a steering part of a university project of table tennis robot.
+//The app was a sketch of control subsystem of a university project of table tennis robot.
 
 
 int main()
